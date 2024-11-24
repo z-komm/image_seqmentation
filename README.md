@@ -1,6 +1,4 @@
-Hier ist eine mögliche **README.md**-Datei für das Git-Repository:
 
----
 
 # **SAM-based Image Segmentation**
 
