@@ -90,15 +90,4 @@ Bounding-Box-Darstellung:
 
 ---
 
-## **Lizenz**
-Dieses Projekt steht unter der MIT-Lizenz. Siehe die [LICENSE](LICENSE)-Datei für weitere Details.
 
----
-
-## **Kontakt**
-Erstellt von [Dein Name].  
-Bei Fragen oder Anregungen: [E-Mail-Adresse].
-
----
-
-Wenn du spezifische Anpassungen möchtest (z. B. Logos, detailliertere Anleitungen), lass es mich wissen!
