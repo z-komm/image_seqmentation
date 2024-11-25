@@ -77,7 +77,7 @@ Originalbild:
 ![Original Image](assets/classified_output_third_image.png)
 
 Segmentiertes Bild:  
-![Segmented Output](segmented_output.png)
+![Segmented Output](classified_output.png)
 
 Bounding-Box-Darstellung:  
 ![Bounding Boxes](segmented_with_boxes.png)
